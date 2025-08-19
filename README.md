@@ -41,9 +41,9 @@ TRANSCORD is a **group expense management application** designed to simplify the
 **Workflow**
 ![Usecase](assets/usecase.png)
 
-**OCR demo 1**
-![OCR](assets/ocr-1.mp4)
+**OCR demo 1** 
+[![OCR Demo 1](assets/ocr-1.png)](assets/ocr-1.mp4) 
 
-**OCR demo 2**
-![OCR](assets/ocr-2.mp4)
+**OCR demo 2** 
+[![OCR Demo 2](assets/ocr-2.png)](assets/ocr-2.mp4)
 
