@@ -42,9 +42,8 @@ TRANSCORD is a **group expense management application** designed to simplify the
 ![Usecase](assets/usecase.png)
 
 **OCR demo 1** 
-<video src="assets/ocr-1.mp4" controls width="400"></video> 
+[![OCR Demo 1](assets/ocr-1.png)](https://raw.githubusercontent.com/rishit-AI/Transcord/main/assets/ocr-1.mp4)
 
 **OCR demo 2** 
-<video src="assets/ocr-2.mp4" controls width="400"></video>
-
+[![OCR Demo 2](assets/ocr-2.png)](https://raw.githubusercontent.com/rishit-AI/Transcord/main/assets/ocr-2.mp4)
 
